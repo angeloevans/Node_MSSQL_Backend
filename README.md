@@ -1,5 +1,11 @@
 # Node.js MSSQL Backend
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/angeloevans/Node_MSSQL_Backend/releases/tag/v1.0.0)
+[![Node.js](https://img.shields.io/badge/Node.js-%3E%3D%2014.x-brightgreen.svg)](https://nodejs.org/)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://travis-ci.org)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<br>
 This project is a backend server built with **Node.js** and **Express**, using **Microsoft SQL Server (MSSQL)** for database management. It provides a set of API endpoints for interacting with the database and performing various queries.
 
 ## Table of Contents
