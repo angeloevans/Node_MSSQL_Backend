@@ -28,6 +28,7 @@ Before you get started, make sure you have the following installed on your machi
    cd Node_MSSQL_Backend
    
 2. Install the dependencies:
+
    ```bash
   npm install
 
@@ -36,17 +37,20 @@ Before you get started, make sure you have the following installed on your machi
 The application requires a MSSQL database connection. You need to configure the connection details in an environment file (.env).
 
 Create a .env file in the root directory of the project:
+
  ```bash
 touch .env
 
 Add the following configuration in the .env file:
+
+ ```bash
 DB_USER=your_database_user
 DB_PASSWORD=your_database_password
 DB_SERVER=localhost
 DB_DATABASE=AdventureWorks2019
 
+
 DB_USER: Your SQL Server username (e.g., sa for system administrator).
 DB_PASSWORD: The password for the SQL Server user.
 DB_SERVER: The server where your SQL Server is running (e.g., localhost or an IP address or a cloud address like your-server.database.windows.net).
 DB_DATABASE: The name of the database you're connecting to (e.g., AdventureWorks2019).
-
