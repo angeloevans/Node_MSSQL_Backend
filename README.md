@@ -26,7 +26,10 @@ Before you get started, make sure you have the following installed on your machi
    ```bash
    git clone https://github.com/angeloevans/Node_MSSQL_Backend.git
    cd Node_MSSQL_Backend
+
+   
 2. Install the dependencies:
+   ```bash
   npm install
 
 Configuration
