@@ -6,7 +6,8 @@
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://travis-ci.org)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 <br>
-This project is a backend server built with **Node.js** and **Express**, using **Microsoft SQL Server (MSSQL)** for database management. It provides a set of API endpoints for interacting with the database and performing various queries.
+This project is a backend server built with **Node.js** and **Express**, using **Microsoft SQL Server (MSSQL)** for database management. 
+<br>It provides a set of API endpoints for interacting with the database and performing various queries.
 
 ## Table of Contents
 - [Node.js MSSQL Backend](#nodejs-mssql-backend)
