@@ -26,16 +26,16 @@ Before you get started, make sure you have the following installed on your machi
    ```bash
    git clone https://github.com/angeloevans/Node_MSSQL_Backend.git
    cd Node_MSSQL_Backend
-
    
 2. Install the dependencies:
    ```bash
   npm install
 
-Configuration
+## Configuration
 The application requires a MSSQL database connection. You need to configure the connection details in an environment file (.env).
 
 Create a .env file in the root directory of the project:
+ ```bash
 touch .env
 
 Add the following configuration in the .env file:
