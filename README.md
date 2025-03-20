@@ -31,6 +31,7 @@ Before you get started, make sure you have the following installed on your machi
    ```bash
   npm install
 
+
 ## Configuration
 The application requires a MSSQL database connection. You need to configure the connection details in an environment file (.env).
 
